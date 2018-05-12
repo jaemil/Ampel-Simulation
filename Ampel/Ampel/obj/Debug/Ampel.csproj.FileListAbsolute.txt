@@ -1,0 +1,10 @@
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\bin\Debug\Ampel.exe.config
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\bin\Debug\Ampel.exe
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\bin\Debug\Ampel.pdb
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\obj\Debug\Ampel.csprojResolveAssemblyReference.cache
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\obj\Debug\Ampel.Form1.resources
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\obj\Debug\Ampel.Properties.Resources.resources
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\obj\Debug\Ampel.csproj.GenerateResource.cache
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\obj\Debug\Ampel.csproj.CoreCompileInputs.cache
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\obj\Debug\Ampel.exe
+C:\Users\jaemil\Desktop\Ampel Simulation\Ampel\Ampel\obj\Debug\Ampel.pdb
